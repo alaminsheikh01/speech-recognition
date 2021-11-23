@@ -1,1 +1,1 @@
-# speech emotion recognition using deep learing and NLP
+# speech emotions recognition using deep learing, machine learning and NLP
